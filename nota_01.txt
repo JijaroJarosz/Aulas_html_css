@@ -1,0 +1,39 @@
+Aula de origem: https://youtu.be/F74GKCLXUWM?si=dbCePKuD7SIaYSTj
+
+Quando a internet nasceu ?
+R: Durante a guerra fria que começou em 1949, 
+para proteger centros de dados e cumprir objetivos militares.
+
+Em 1969 ainda durante a guerra fria, Dwight Eisenhower presidente dos EUA na época, 
+criou a agência: Defense Advanced Research Projects Agency (DARPA).
+
+A DARPA desenvolveu o projeto ARPANET, que inicialmente conectou apenas 4 pontos:
+
+    SDS Sigma 7 | Universidade da Califórnia
+    SDS 90 | Universidade de Stanford
+    IBM 370/75 | Centro de matemática de Los Angeles
+    Computador militar DEC PDP-10 | Base militar de Yuta
+
+Na época, os 4 pontos iniciais conectados pela ARPANET tinham linguagens diferentes,
+para resolver este problema a universidade da Califórnia desenvolveu um protocolo de internet,
+chamado Network Control Protocol (NCP).
+
+Em 1970 e 1972 a rede ARPANET cresceu de tal forma que o protocolo NCP não conseguia mais dar conta,
+pois a rede estava grande de mais e o protocolo era muito simples para o tamanho dela.
+
+Então dois pesquisadores, Bob Khan e Vint Cerf juntaram suas pesquisas e deram origem 
+ao protocolo TCP/IP.
+
+Apartir de 1977 a ARPANET tinha atingido um tamanho enorme e precisava de organização
+então ela foi dividida, resultando em: MILNET para os militares, NSFNET para universidades e
+instituições cientificas e por fim as redes comerciais.
+
+Simplificação do nome internet: Interconnect Networking > Internetworking > Internet
+
+##                          ====================                            ##
+
+Site de consulta: www.submarinecablemap.com 
+Permite ver a rede de cabos submarinos globais.
+
+Documentário: Como funciona a internet | https://youtu.be/TNQsmPf24go 
+

@@ -1,0 +1,37 @@
+Aula de origem: https://youtu.be/nlO5hySqJFA?si=dmrx7lCq-VK562Dj
+
+0 e 1 na computação representa: com sinal e sem sinal, sendo o 1 com sinal e 0 sem sinal.
+
+Os números de 0's ou 1's são conhecidos como: Binary digit (bit).
+
+Uma sequencia de 8 bits constitui 1 byte.
+
+A tabela de códigos multibyte UTF-8 demonstra os conjuntos de bits que representam caracteres.
+
+Link para consulta 00: https://www.utf8-chartable.de/unicode-utf8-table.pl?utf8=bin
+
+Link para contulta 01: https://www.iplocation.net/
+
+Representação de dados:
+
+    1024 bytes = 1 KB
+    1024 KB = 1 MB
+    1024 MB = 1 GB
+    1024 GB = 1 TB
+    1024 TB = 1 PB
+
+MB = Megabytes = armazenamento
+Mb = Megabits = Transmissão
+
+##                     ================================                            ##
+
+Explicação de um endereço eletrônico
+
+URL: gustavoguanabara.github.io
+Dominio: github
+Sub-dominio: gustavoguanabara
+TLD: io
+
+
+
+

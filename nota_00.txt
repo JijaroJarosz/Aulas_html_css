@@ -1,0 +1,61 @@
+Fontes de material
+
+Repositório público: github.com/gustavoguanabara 
+Site: gustavoguanabara.github.io
+
+##                            =======================                            ##
+
+Recomendações de estudo
+
+Aula de origem: https://youtu.be/0zLjVhHdOm8?si=Dj2dQTYN1VFiPtde | Tempo: 5:40
+
+MDN: Mozilla Developer Network | On-line
+
+W3C Standards: World Wide Web Consortium | On-line
+
+WHATWG Living Standards: Web Hypertext Application Technology Working Group | On-line
+
+W3Schools: Refsnes Data | On-line
+
+HTML5: Mark Pilgrim | O'Reilly | Livro
+
+CSS: Eric Meyer | O'Reilly | Livro
+
+FlexBox in CSS: Estelle Weyl | O'Reilly | Livro
+
+Grid Layout in CSS: Eric Meyer | O'Reilly | Livro
+
+HTML5 e CSS3: Elizabeth Castro e Bruce Hyslop | Alta Books | Livro
+
+HTML e CSS: Jon Duckett | Alta Books | Livro
+
+HTML e CSS: Elisabeth Robson e Eric Freeman | Alta Books | Livro
+
+Crie seu próprio site: Nate Cooper e Kim Gee | Novatec | Livro
+
+HTML5: Mauricio Samy Silva | Novatec | Livro
+
+CSS3: Mauricio Samy Silva | Novatec | Livro
+
+Fundamentos de HTML5 e CSS3: Mauricio Samy Silva | Novatec | Livro
+
+CSS Grid Layout: Mauricio Samy Silva | Novatec | Livro
+
+JQuery A Biblioteca do Programador: Mauricio Samy Silva | Novatec | Livro
+
+Curso de design gráfico: David Dabner e outros | GG | Livro
+
+Design: Bob e Maggie Gordon | Senac | Livro
+
+A psicologia das cores: Eva Heller | GG | Livro
+
+Pensar com tipos: Ellen Lupton | GG | Livro
+
+Flexbox Explained: Jorge Montoya e Stephen Burge | OSTRaining | Livro
+
+CSS Grid Explained: Jorge Montoya e Stephen Burge | OSTRaining | Livro
+
+HTML5: Bill Sanders | Bookman | Livro
+
+CSS: Eric Meyer | Bookman | Livro
+

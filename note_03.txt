@@ -1,0 +1,7 @@
+Por padrão, as imagens para web se usa jpeg e png.
+
+Para imagens de fundo se usa jpg, jpeg
+
+Para imagens menores se usa png
+
+
